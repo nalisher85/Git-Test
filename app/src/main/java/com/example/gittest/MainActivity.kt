@@ -25,6 +25,7 @@ class MainActivity : ComponentActivity() {
                     Greeting("Android")
                     //editing in main
                     //editing in feature1
+                    //третье изменение в main
 
                 }
             }
