@@ -28,6 +28,7 @@ class MainActivity : ComponentActivity() {
                     //третье изменение в main
                     //четвертое изменение в main
                     // третье изменение в feature1
+                    // четвертое изменение в feature
                 }
             }
         }
