@@ -26,7 +26,7 @@ class MainActivity : ComponentActivity() {
                     //editing in main
                     //editing in feature1
                     //третье изменение в main
-
+                    //четвертое изменение в main
                 }
             }
         }
